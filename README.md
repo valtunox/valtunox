@@ -12,6 +12,7 @@
   <strong>20 production-ready, fully responsive React templates with dark mode, theme switching, and zero external API dependencies.</strong>
 </p>
 
+
 <p align="center">
   Open source collection of beautifully crafted UI templates for rapid prototyping and production apps.<br/>
   Built with React 18, Vite 6, Tailwind CSS, and shadcn/ui components.
@@ -26,6 +27,10 @@
 </p>
 
 ---
+
+<img width="1618" height="905" alt="Screenshot 2026-03-25 003903" src="https://github.com/user-attachments/assets/ebda3c03-ad95-4939-a6b5-dbedf11b7b90" />
+
+<img width="1844" height="906" alt="image" src="https://github.com/user-attachments/assets/5286f001-7284-4da7-be83-5ec837c98c8c" />
 
 ## Quick Start
 

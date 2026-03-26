@@ -2,14 +2,14 @@
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 18" />
   <img src="https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 6" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Templates-20-8B5CF6?style=for-the-badge" alt="20 Templates" />
+  <img src="https://img.shields.io/badge/Templates-17-8B5CF6?style=for-the-badge" alt="17 Templates" />
   <img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge" alt="MIT License" />
 </p>
 
 <h1 align="center">VA Studio Frontend Starter</h1>
 
 <p align="center">
-  <strong>20 production-ready, fully responsive React templates with dark mode, theme switching, and zero external API dependencies.</strong>
+  <strong>17 production-ready, fully responsive React templates with dark mode, theme switching, and zero external API dependencies.</strong>
 </p>
 
 
@@ -46,7 +46,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3008](http://localhost:3008) and use the template switcher on the right side to browse all 20 templates.
+Open [http://localhost:3008](http://localhost:3008) and use the template switcher on the right side to browse all 17 templates.
 
 ## Templates
 
@@ -55,7 +55,6 @@ Open [http://localhost:3008](http://localhost:3008) and use the template switche
 | Template | Description |
 |----------|-------------|
 | **SaaS Landing** | Modern SaaS landing with purple/blue gradients, hero, pricing tiers, testimonials |
-| **SaaS Dark** | Developer-tools aesthetic (Vercel/Supabase vibe) with neon cyan/emerald glows, bento grid |
 | **Business** | B2B consulting site with case studies, services, and outcomes |
 | **Organization** | Nonprofit/advocacy site with mission, programs, and impact stats |
 | **Portfolio** | Developer portfolio with projects showcase, skills, and contact form |
@@ -82,7 +81,6 @@ Open [http://localhost:3008](http://localhost:3008) and use the template switche
 | Template | Description |
 |----------|-------------|
 | **Nutrition App** | Mobile-first food tracking app with meal logging, recipes, and macro tracking |
-| **Diet** | Nutrition dashboard with meal plans, grocery lists, and progress tracking |
 | **AI Assistant** | Chat interface with agent list, AI thinking visualization, and connectors |
 | **Calendar** | Calendly-style booking with calendar grid, event types, and availability |
 
@@ -91,13 +89,12 @@ Open [http://localhost:3008](http://localhost:3008) and use the template switche
 | Template | Description |
 |----------|-------------|
 | **Login** | Login form with email/password and OAuth (Google, GitHub, Microsoft) |
-| **Register** | Registration form with password strength and OAuth |
 | **Form Builder** | Multi-step registration with 4 steps, validation, and review |
 | **Onboarding** | User onboarding wizard with progress tracking and theme selection |
 
 ## Features
 
-- **20 Production-Ready Templates** -- Each template is a complete, self-contained UI
+- **17 Production-Ready Templates** -- Each template is a complete, self-contained UI
 - **Dark Mode** -- Every template supports light and dark themes out of the box
 - **Theme System** -- 3 color themes (Purple, Ocean, Slate) switchable at runtime
 - **Code Splitting** -- Templates are lazy-loaded for fast initial page load
@@ -134,14 +131,13 @@ va_studio_frontend_starter/
 │   ├── context/                   # Theme + Backend status providers
 │   ├── hooks/                     # useBackendStatus
 │   └── lib/                       # utils (cn), API client
-├── templates/                     # 20 self-contained templates
+├── templates/                     # 17 self-contained templates
 │   ├── aiassistant/
 │   ├── blog/
 │   ├── business/
 │   ├── calendar/
 │   ├── crm/
 │   ├── dashboard/
-│   ├── diet/
 │   ├── ecommerce/
 │   ├── erp/
 │   ├── finance/
@@ -152,9 +148,7 @@ va_studio_frontend_starter/
 │   ├── onboarding/
 │   ├── organization/
 │   ├── portfolio/
-│   ├── register/
-│   ├── saas/
-│   └── saas2/
+│   └── saas/
 ├── vite.config.js
 ├── tailwind.config.js
 └── package.json
